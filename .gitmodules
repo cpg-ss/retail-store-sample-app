@@ -1,0 +1,12 @@
+[submodule "src/catalog"]
+	path = src/catalog
+	url = https://github.com/cpg-ss/retail-store-catalog.git
+[submodule "src/checkout"]
+	path = src/checkout
+	url = https://github.com/cpg-ss/retail-store-checkout.git
+[submodule "src/orders"]
+	path = src/orders
+	url = https://github.com/cpg-ss/retail-store-orders.git
+[submodule "src/ui"]
+	path = src/ui
+	url = https://github.com/cpg-ss/retail-store-ui.git
