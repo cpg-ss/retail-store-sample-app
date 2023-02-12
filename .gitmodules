@@ -10,3 +10,9 @@
 [submodule "src/ui"]
 	path = src/ui
 	url = https://github.com/cpg-ss/retail-store-ui.git
+[submodule "src/cart"]
+	path = src/cart
+	url = https://github.com/cpg-ss/retail-store-cart.git
+[submodule "src/assets"]
+	path = src/assets
+	url = https://github.com/cpg-ss/retail-store-assets.git
